@@ -1,5 +1,12 @@
 ### Hey 👋🏽, I'm [Mostefa!](https://mostefaben.github.io/)
 
+<a href="https://www.linkedin.com/in/mostefabennaceurphd//">
+  <img align="left" alt="Mostefa's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<br />
+<br />
+
 I'm an AI Researcher and Programmer in France. I am generally interested in Machine Learning, Computer Vision and, more generally, Artificial Intelligence.
 
 <!--
