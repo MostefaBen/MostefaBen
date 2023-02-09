@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋🏽, I'm [Mostefa!](https://mostefaben.github.io/)
+
+I'm an AI Researcher and Programmer in France. I am generally interested in Machine Learning, Computer Vision and, more generally, Artificial Intelligence.
 
 <!--
 **MostefaBen/MostefaBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
